@@ -81,7 +81,7 @@ namespace bookings2.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\\BCS-SBS2011-S1\Public\Bnumbers app\Citysightseeing database.accdb; Persist Security Info=False;.
+        ///   Looks up a localized string similar to Provider=Microsoft.ACE.OLEDB.12.0;Data Source=Citysightseeing database.accdb; Persist Security Info=False;.
         /// </summary>
         internal static string DatabaseConnectionString {
             get {

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DatabaseConnectionString" xml:space="preserve">
-    <value>Provider=Microsoft.ACE.OLEDB.12.0;Data Source=\\BCS-SBS2011-S1\Public\Bnumbers app\Citysightseeing database.accdb; Persist Security Info=False;</value>
+    <value>Provider=Microsoft.ACE.OLEDB.12.0;Data Source=Citysightseeing database.accdb; Persist Security Info=False;</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="refresh-icon-614x460" type="System.Resources.ResXFileRef, System.Windows.Forms">
